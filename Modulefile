@@ -8,4 +8,4 @@ description 'Puppet module to expand system wide paths'
 project_page 'http://www.thunderpoop.com'
 
 ## Add dependencies, if any:
-dependency 'puppetlabs/stdlib', '>- 4.1.0'
+dependency 'puppetlabs/stdlib', '>= 4.1.0'
