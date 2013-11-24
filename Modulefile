@@ -1,6 +1,6 @@
 name    'panaman-pathmunge'
 version '1.0.0'
-source 'https://github.com/panaman/puppet-pathmunge''
+source 'https://github.com/panaman/puppet-pathmunge'
 author 'Panaman'
 license 'Apache License, Version 2.0'
 summary 'Pathmunge'
